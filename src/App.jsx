@@ -8,7 +8,6 @@ import { ExperienceProgressHint } from './components/ui/ExperienceProgressHint';
 import { Scene01_BeforeEverything } from './scenes/Scene01_BeforeEverything';
 import { Scene02_TheDoor } from './scenes/Scene02_TheDoor';
 import { Scene04_LittleThings } from './scenes/Scene04_LittleThings';
-import { Scene05_Gallery } from './scenes/Scene05_Gallery';
 import { Scene06_Playlist } from './scenes/Scene06_Playlist';
 import { Scene07_ThingsYouNeedToHear } from './scenes/Scene07_ThingsYouNeedToHear';
 import { Scene08_Impact } from './scenes/Scene08_Impact';
@@ -20,7 +19,6 @@ const SCENE_COMPONENTS = [
   Scene01_BeforeEverything,
   Scene02_TheDoor,
   Scene04_LittleThings,
-  Scene05_Gallery,
   Scene06_Playlist,
   Scene07_ThingsYouNeedToHear,
   Scene08_Impact,
