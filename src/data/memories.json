@@ -1,0 +1,62 @@
+[
+  {
+    "id": "mem-1",
+    "title": "The Morning Coffee Quiet",
+    "date": "First Light",
+    "object": "Coffee Mug",
+    "icon": "Coffee",
+    "photo": "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?auto=format&fit=crop&w=1000&q=80",
+    "caption": "A sleepy morning, steam curling off ceramic, and that quiet laugh before the day officially began.",
+    "letter": "Remember how the sun hit the counter just as you took that first sip? You looked at me with that half-awake smile and said the day already felt complete. Some moments don't need speeches to stay in your heart forever."
+  },
+  {
+    "id": "mem-2",
+    "title": "The Unexpected Train Ride",
+    "date": "Golden Afternoon",
+    "object": "Train Ticket",
+    "icon": "Ticket",
+    "photo": "https://images.unsplash.com/photo-1474487548417-781cb71495f3?auto=format&fit=crop&w=1000&q=80",
+    "caption": "Watching the world blur past the window while sharing headphones and a pocketful of dreams.",
+    "letter": "We didn't care about the destination that day. We just watched the electric lines cut across sunset skies, humming along to songs that felt like they were written just for us. You fell asleep on my shoulder three stops before ours."
+  },
+  {
+    "id": "mem-3",
+    "title": "Wildflowers in Rain",
+    "date": "Spring Afternoon",
+    "object": "Dried Flower",
+    "icon": "Flower2",
+    "photo": "https://images.unsplash.com/photo-1490750967868-88aa4486c946?auto=format&fit=crop&w=1000&q=80",
+    "caption": "Pressing small purple blossoms into the pages of a notebook to keep springtime forever.",
+    "letter": "You stopped right in the middle of the sidewalk when rain started falling, picked up a tiny fallen wildflower, and held it like a tiny miracle. You've always seen beauty where everyone else just walks past."
+  },
+  {
+    "id": "mem-4",
+    "title": "The Starlit Late Night",
+    "date": "Midnight Conversations",
+    "object": "Handwritten Note",
+    "icon": "FileText",
+    "photo": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1000&q=80",
+    "caption": "Talking about the universe until 3 AM under a canopy of quiet stars.",
+    "letter": "When the world goes quiet, your thoughts shine brightest. I'll never forget the way your eyes lit up when talking about your biggest dreams and how we promised to always protect the things that make us feel alive."
+  },
+  {
+    "id": "mem-5",
+    "title": "The Old Bookshop Find",
+    "date": "Quiet Sunday",
+    "object": "Vintage Book",
+    "icon": "BookOpen",
+    "photo": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1000&q=80",
+    "caption": "Smell of old paper, wooden shelves, and finding that margin note written decades ago.",
+    "letter": "You turned to page 84 and read aloud a line about how kindness is the only language that leaves no echoes of regret. It sounded like you had written it yourself."
+  },
+  {
+    "id": "mem-6",
+    "title": "The Evening Shoreline",
+    "date": "Twilight Tide",
+    "object": "Seashell",
+    "icon": "Compass",
+    "photo": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1000&q=80",
+    "caption": "Footprints in damp sand washed clean by waves, leaving only peace behind.",
+    "letter": "The wind was cold, but your laughter made the whole beach feel warm. You picked up a smooth stone, tossed it into the tide, and made a silent wish. I made a wish right then too—to keep seeing you this happy."
+  }
+]

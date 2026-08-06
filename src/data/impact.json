@@ -1,0 +1,32 @@
+[
+  {
+    "id": "imp-1",
+    "title": "Making People Feel Heard",
+    "light": "Lantern of Presence",
+    "message": "You have a rare way of turning towards someone when they speak—no distractions, no rushing. You make people feel like their words truly matter."
+  },
+  {
+    "id": "imp-2",
+    "title": "Memorable Conversations",
+    "light": "Orb of Thoughtfulness",
+    "message": "Ordinary moments turn into unforgettable memories around you because you bring curiosity, humor, and depth into every dialogue."
+  },
+  {
+    "id": "imp-3",
+    "title": "Lighter Heavy Days",
+    "light": "Beacon of Hope",
+    "message": "When someone is having a rough day, your simple check-in or gentle smile acts like an anchor in a stormy sea."
+  },
+  {
+    "id": "imp-4",
+    "title": "Reminding Us Kindness Exists",
+    "light": "Glow of Grace",
+    "message": "In a world that sometimes feels hurried and cold, you leave places warmer than you found them, silently renewing people's faith in goodness."
+  },
+  {
+    "id": "imp-5",
+    "title": "Comfort in Being Yourself",
+    "light": "Sanctuary Light",
+    "message": "You don't put on pretenses or demand perfection. Just by being authentic, you make everyone around you feel safe to be themselves too."
+  }
+]

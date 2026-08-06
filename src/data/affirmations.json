@@ -1,0 +1,38 @@
+[
+  {
+    "id": "aff-1",
+    "star": "Alpha Light",
+    "short": "You are enough.",
+    "full": "Just as you are. Without needing to prove your worth, without needing to perform, and without needing to satisfy everyone's expectations. You are already enough."
+  },
+  {
+    "id": "aff-2",
+    "star": "Gemma Constellation",
+    "short": "Take your time.",
+    "full": "Life is not a race to be won. You are allowed to move at your own gentle pace, to breathe, and to let your journey unfold naturally."
+  },
+  {
+    "id": "aff-3",
+    "star": "Lyra Spark",
+    "short": "Your kindness matters.",
+    "full": "The quiet warmth you extend to the world never goes unnoticed. Even on days when it feels small, your kindness touches people deeper than you know."
+  },
+  {
+    "id": "aff-4",
+    "star": "Vega Beacon",
+    "short": "Rest is allowed.",
+    "full": "You don't have to carry the weight of the world on your shoulders. Pausing to heal and recharge is a form of courage, not weakness."
+  },
+  {
+    "id": "aff-5",
+    "star": "Altair Glow",
+    "short": "Dream bigger.",
+    "full": "Never shrink your aspirations to fit smaller spaces. Your mind is capable of incredible things, and you deserve every dream you hold close."
+  },
+  {
+    "id": "aff-6",
+    "star": "Polaris Haven",
+    "short": "Keep going.",
+    "full": "Even when path seems hidden in mist, trust the strength inside you. You have survived every hard day so far, and sunrise is always waiting."
+  }
+]

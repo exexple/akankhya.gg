@@ -1,0 +1,52 @@
+[
+  {
+    "id": "wish-travel",
+    "category": "Travel",
+    "icon": "Compass",
+    "theme": "from-sky-900/40 via-indigo-950/60 to-slate-950",
+    "headline": "Open Skies & Distant Horizons",
+    "quote": "I hope life always gives you reasons to stay curious and new horizons to explore.",
+    "body": "May your passport be full of stamps, your shoes dusty from winding cobblestone streets, and your heart full of stories from mountain peaks and ocean shores you haven't even seen yet.",
+    "visual": "https://images.unsplash.com/photo-1488646953014-85cb44e25828?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "wish-career",
+    "category": "Career",
+    "icon": "Briefcase",
+    "theme": "from-amber-950/40 via-slate-900/60 to-zinc-950",
+    "headline": "Quiet Confidence & Bold Achievements",
+    "quote": "I hope your dreams keep getting bigger and doors open effortlessly before you.",
+    "body": "May every room you enter recognize your brilliance. May your work inspire you, your efforts bear beautiful fruit, and your quiet dedication lead to achievements beyond what you thought possible.",
+    "visual": "https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "wish-health",
+    "category": "Health",
+    "icon": "HeartPulse",
+    "theme": "from-emerald-950/40 via-teal-950/60 to-slate-950",
+    "headline": "Fresh Sunlight & Vitality",
+    "quote": "I hope you always wake up with light in your chest and peace in your breath.",
+    "body": "May morning air feel crisp and restorative, may your body stay strong and resilient, and may gentle energy carry you effortlessly through every season of your life.",
+    "visual": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "wish-dreams",
+    "category": "Dreams",
+    "icon": "Sparkles",
+    "theme": "from-purple-950/40 via-indigo-900/60 to-slate-950",
+    "headline": "Paper Cranes & Starlit Possibilities",
+    "quote": "I hope the future surprises you in the most beautiful, unexpected ways.",
+    "body": "May the quiet wishes you whisper into the dark come true one by one. May you never lose the courage to reach for things that seem impossible right now.",
+    "visual": "https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "wish-peace",
+    "category": "Peace",
+    "icon": "Moon",
+    "theme": "from-blue-950/50 via-slate-950 to-neutral-950",
+    "headline": "The Moonlit Lake of Tranquility",
+    "quote": "I hope you always find deep peace after difficult or long days.",
+    "body": "May your mind feel like a calm lake reflecting moonlight—still, unbothered by temporary winds, and resting in the steady knowledge that you are safe and loved.",
+    "visual": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80"
+  }
+]
