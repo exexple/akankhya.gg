@@ -14,7 +14,7 @@ export const Scene04_LittleThings = () => {
         animate={{ opacity: 1, y: 0 }}
         className="text-center space-y-3 mb-16"
       >
-        <span className="text-amber-400/80 text-xs uppercase tracking-widest font-sans">Chapter IV</span>
+        <span className="text-amber-400/80 text-xs uppercase tracking-widest font-sans">Chapter III</span>
         <h2 className="font-serif text-3xl sm:text-4xl text-amber-100 font-light tracking-wide">
           The Little Things
         </h2>

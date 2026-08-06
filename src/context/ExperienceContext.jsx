@@ -2,12 +2,11 @@ import React, { createContext, useContext, useState, useEffect, useRef } from 'r
 
 const ExperienceContext = createContext(null);
 
-export const TOTAL_SCENES = 11;
+export const TOTAL_SCENES = 10;
 
 export const SCENE_NAMES = [
   'Before Everything',
   'The Door',
-  'The Timeline',
   'The Little Things',
   'Memory Gallery',
   'A Playlist for You',
@@ -34,15 +33,14 @@ export const ExperienceProvider = ({ children }) => {
     switch (sceneIdx) {
       case 0: return { timeOfDay: 'deep-night', particleType: 'dust', lighting: 'minimal-dark' };
       case 1: return { timeOfDay: 'dusk', particleType: 'dust', lighting: 'warm-doorway' };
-      case 2: return { timeOfDay: 'morning-gold', particleType: 'light-motes', lighting: 'morning-sun' };
-      case 3: return { timeOfDay: 'golden-afternoon', particleType: 'paper-dust', lighting: 'soft-warm' };
-      case 4: return { timeOfDay: 'sunset-purple', particleType: 'paper-dust', lighting: 'twilight-glow' };
-      case 5: return { timeOfDay: 'cozy-lounge', particleType: 'dust', lighting: 'warm-amber' };
-      case 6: return { timeOfDay: 'starlit-night', particleType: 'stars', lighting: 'starlight' };
-      case 7: return { timeOfDay: 'midnight-lanterns', particleType: 'lanterns', lighting: 'lantern-glow' };
-      case 8: return { timeOfDay: 'deep-space', particleType: 'fireflies', lighting: 'ethereal-cyan' };
-      case 9: return { timeOfDay: 'birthday-warmth', particleType: 'warm-sparks', lighting: 'candle-peak' };
-      case 10: return { timeOfDay: 'quiet-landing', particleType: 'minimal-stars', lighting: 'soft-paper' };
+      case 2: return { timeOfDay: 'golden-afternoon', particleType: 'paper-dust', lighting: 'soft-warm' };
+      case 3: return { timeOfDay: 'sunset-purple', particleType: 'paper-dust', lighting: 'twilight-glow' };
+      case 4: return { timeOfDay: 'cozy-lounge', particleType: 'dust', lighting: 'warm-amber' };
+      case 5: return { timeOfDay: 'starlit-night', particleType: 'stars', lighting: 'starlight' };
+      case 6: return { timeOfDay: 'midnight-lanterns', particleType: 'lanterns', lighting: 'lantern-glow' };
+      case 7: return { timeOfDay: 'deep-space', particleType: 'fireflies', lighting: 'ethereal-cyan' };
+      case 8: return { timeOfDay: 'birthday-warmth', particleType: 'warm-sparks', lighting: 'candle-peak' };
+      case 9: return { timeOfDay: 'quiet-landing', particleType: 'minimal-stars', lighting: 'soft-paper' };
       default: return { timeOfDay: 'night', particleType: 'dust', lighting: 'dark' };
     }
   };

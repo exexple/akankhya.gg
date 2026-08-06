@@ -25,7 +25,7 @@ export const Scene09_Wishes = () => {
         animate={{ opacity: 1, y: 0 }}
         className="text-center space-y-3 mb-10"
       >
-        <span className="text-amber-400/80 text-xs uppercase tracking-widest font-sans">Chapter IX</span>
+        <span className="text-amber-400/80 text-xs uppercase tracking-widest font-sans">Chapter VIII</span>
         <h2 className="font-serif text-3xl sm:text-4xl text-amber-100 font-light tracking-wide">
           Wishes for Tomorrow
         </h2>
